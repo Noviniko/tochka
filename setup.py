@@ -5,7 +5,7 @@ setup(
 	name='tochka', 
 	packages=['tochka',],
 	version='0.0.1',
-	url='https://github.com/Noviniko/tochka-test',
+	url='https://github.com/Noviniko/tochka',
 	author='Nikolay',
 	author_email='noviniko97@gmail.com',
 	description='This utility displays a list of repository GitHub that a particular user rated with a star and the number of stars for each repository',
