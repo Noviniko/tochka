@@ -4,4 +4,4 @@ This utility displays a list of repository GitHub that a particular user rated w
 
 To install use "pip install ." from root directory
 
-To use, type the command "tochka" with a required parameter - username
+To use, type the command "tochka" with a required parameter -username
